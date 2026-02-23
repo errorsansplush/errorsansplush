@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything!**
 
-- ⚡ Fun fact **I'm Turkish😅**
+- ⚡ Fun fact **Still a procrastinator😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
