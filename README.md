@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **OSINT, Python**
 
-- 🌐 Languages **Turkish(Native), English(Advanced), Japanese(N5-N4), Spanish(A1)**
+- 🌐 Languages **Turkish(Native), English(Advanced), Japanese(N4), Spanish(A1)**
 
 - 🤝 I’m looking for help with **AI Training**
 
