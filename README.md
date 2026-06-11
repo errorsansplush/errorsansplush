@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [AURA (AI-Unified Risk Assessment)](https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment)
 
-- 🌱 I’m currently learning **OSINT, Python**
+- 🌱 I’m currently learning **OSINT, Python, Cybersecurity(Enrolled in HTB Academy)**
 
-- 🌐 Languages **Turkish(Native), English(Advanced), Japanese(N4), Spanish(A1)**
+- 🌐 Languages **Turkish(Native), English(Advanced), Japanese(N4-N3), Spanish(A1)**
 
 - 🤝 I’m looking for help with **AI Training**
 
