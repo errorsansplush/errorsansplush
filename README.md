@@ -13,7 +13,7 @@
 
 - 👨‍💻 TUBITAK Competition Regional Winner/National Finals 7th Place Project [https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment](https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment)
 
-- 📝 I regularly anime reviews on [https://myanimelist.net/animelist/errorsanstale](https://myanimelist.net/animelist/errorsanstale)
+- 📝 I sometimes anime reviews on [https://myanimelist.net/animelist/errorsanstale](https://myanimelist.net/animelist/errorsanstale)
 
 - 💬 Ask me about **anything!**
 
