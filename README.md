@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AI Training**
 
-- 👨‍💻 TUBITAK Competition Regional Winner Project [https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment](https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment)
+- 👨‍💻 TUBITAK Competition Regional Winner/National Finals 7th Place Project [https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment](https://github.com/BCAcode/AURA-AI-based-Unified-Risk-Assessment)
 
 - 📝 I regularly anime reviews on [https://myanimelist.net/animelist/errorsanstale](https://myanimelist.net/animelist/errorsanstale)
 
